@@ -4,6 +4,7 @@
 ```
 # Android16
 oneplus_10_pro_b
+oneplus_pad_lite_b
 oneplus_11r_b
 oneplus_ace2_b
 oneplus_pad_mt6983_b
@@ -17,8 +18,10 @@ oneplus_nord_ce4_b
 oneplus_12_b
 oneplus_pad_go_2_b
 oneplus_nord_ce4_lite_5g_b
+oneplus_turbo_6v
 oneplus_nord_4_b
 oneplus_ace_3v_b
+oneplus_pad_mt6897_b
 oneplus_13r_b
 oneplus_ace3_pro_b
 oneplus_ace5_b
@@ -37,12 +40,15 @@ oneplus_ace5_ultra_b
 oneplus_ace5_ultra_bak_b
 oneplus_pad2_mt6991_b
 oneplus_ace_6
+oneplus_turbo_6
 oneplus_ace_6t
 oneplus_ace_6t_aosp
 oneplus_15r
 oneplus_15r_aosp
 oneplus_15
 oneplus_15_aosp
+oneplus_15t
+oneplus_15t_aosp
 realme_neo6_se_b
 realme_gt_neo6_b
 realme_neo7_b
